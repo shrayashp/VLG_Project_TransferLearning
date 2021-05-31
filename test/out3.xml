@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>out3.jpg</filename>
+	<path>C:\Users\shray\Documents\TensorFlow\workspace\training_demo\images\test\out3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>duck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>288</ymin>
+			<xmax>442</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>
